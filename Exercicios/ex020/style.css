@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+h1:hover{
+    color: aqua;
+    text-shadow: 2px 2px violet;    
+}
+a{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:visited{
+    color: darkviolet
+}
+a:hover{
+    text-decoration: underline;
+    color: black;
+}
